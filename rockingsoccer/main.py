@@ -2,6 +2,7 @@
 
 from selenium import webdriver as wd
 import json
+import url
 
 class Main():
 	def __init__(self, username, password):
