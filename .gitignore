@@ -90,3 +90,7 @@ ENV/
 
 # image
 *.png
+
+# config.json
+*/config.json
+config.json
